@@ -1,7 +1,7 @@
 # BibliotecaPython1
 
-# EXERCÍCIO FEITO PELA APOSTILA DA EXPLICAÇÃO DO CONTEÚDO EM SALA DE AULA SOBRE Orientação a Objetos - Classes,
-# Atributos, Construtor, Métodos,Modificadores de Acesso e Encapsulamento
+# EXERCÍCIO FEITO PELA APOSTILA DA EXPLICAÇÃO DO CONTEÚDO EM SALA DE AULA SOBRE ORIENTAÇÃO A OBJETOS - CLASSES,
+# ATRIBUTOS, CONSTRUTOR, MÉTODOS, MODIFICADORES DE ACESSO E ENCAPSULAMENTO
 
  Crie um sistema para gerenciar contas de uma biblioteca.
 Implemente uma classe Livro, com atributos como título, autor e
